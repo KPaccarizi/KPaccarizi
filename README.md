@@ -7,5 +7,3 @@
 - 🌱 I’m currently learning Flutter
 
 
-<img src="path/to/python-logo.png" alt="Python" width="50" height="50"/> <!-- Replace with the actual path -->
-<img src="path/to/javascript-logo.png" alt="JavaScript" width="50" height="50"/> <!-- Replace with the actual path -->
