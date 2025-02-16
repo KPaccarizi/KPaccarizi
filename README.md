@@ -2,6 +2,6 @@
 
 
 - 🔭 I’m currently working on building my own App
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Data Science and Data Engineering
 
 
